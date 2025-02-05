@@ -1,0 +1,14 @@
+E:\DEV\C#\Projetos\Couse_Secao7\Course_Secao7_Enum\bin\Debug\net8.0\Course_Secao7_Enum.exe
+E:\DEV\C#\Projetos\Couse_Secao7\Course_Secao7_Enum\bin\Debug\net8.0\Course_Secao7_Enum.deps.json
+E:\DEV\C#\Projetos\Couse_Secao7\Course_Secao7_Enum\bin\Debug\net8.0\Course_Secao7_Enum.runtimeconfig.json
+E:\DEV\C#\Projetos\Couse_Secao7\Course_Secao7_Enum\bin\Debug\net8.0\Course_Secao7_Enum.dll
+E:\DEV\C#\Projetos\Couse_Secao7\Course_Secao7_Enum\bin\Debug\net8.0\Course_Secao7_Enum.pdb
+E:\DEV\C#\Projetos\Couse_Secao7\Course_Secao7_Enum\obj\Debug\net8.0\Course_Secao7_Enum.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEV\C#\Projetos\Couse_Secao7\Course_Secao7_Enum\obj\Debug\net8.0\Course_Secao7_Enum.AssemblyInfoInputs.cache
+E:\DEV\C#\Projetos\Couse_Secao7\Course_Secao7_Enum\obj\Debug\net8.0\Course_Secao7_Enum.AssemblyInfo.cs
+E:\DEV\C#\Projetos\Couse_Secao7\Course_Secao7_Enum\obj\Debug\net8.0\Course_Secao7_Enum.csproj.CoreCompileInputs.cache
+E:\DEV\C#\Projetos\Couse_Secao7\Course_Secao7_Enum\obj\Debug\net8.0\Course_Secao7_Enum.dll
+E:\DEV\C#\Projetos\Couse_Secao7\Course_Secao7_Enum\obj\Debug\net8.0\refint\Course_Secao7_Enum.dll
+E:\DEV\C#\Projetos\Couse_Secao7\Course_Secao7_Enum\obj\Debug\net8.0\Course_Secao7_Enum.pdb
+E:\DEV\C#\Projetos\Couse_Secao7\Course_Secao7_Enum\obj\Debug\net8.0\Course_Secao7_Enum.genruntimeconfig.cache
+E:\DEV\C#\Projetos\Couse_Secao7\Course_Secao7_Enum\obj\Debug\net8.0\ref\Course_Secao7_Enum.dll

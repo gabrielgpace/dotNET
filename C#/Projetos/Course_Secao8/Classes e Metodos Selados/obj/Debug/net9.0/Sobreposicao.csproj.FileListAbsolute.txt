@@ -1,0 +1,14 @@
+E:\DEV\C#\Projetos\Course_Secao8\Sobreposicao\bin\Debug\net9.0\Sobreposicao.exe
+E:\DEV\C#\Projetos\Course_Secao8\Sobreposicao\bin\Debug\net9.0\Sobreposicao.deps.json
+E:\DEV\C#\Projetos\Course_Secao8\Sobreposicao\bin\Debug\net9.0\Sobreposicao.runtimeconfig.json
+E:\DEV\C#\Projetos\Course_Secao8\Sobreposicao\bin\Debug\net9.0\Sobreposicao.dll
+E:\DEV\C#\Projetos\Course_Secao8\Sobreposicao\bin\Debug\net9.0\Sobreposicao.pdb
+E:\DEV\C#\Projetos\Course_Secao8\Sobreposicao\obj\Debug\net9.0\Sobreposicao.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEV\C#\Projetos\Course_Secao8\Sobreposicao\obj\Debug\net9.0\Sobreposicao.AssemblyInfoInputs.cache
+E:\DEV\C#\Projetos\Course_Secao8\Sobreposicao\obj\Debug\net9.0\Sobreposicao.AssemblyInfo.cs
+E:\DEV\C#\Projetos\Course_Secao8\Sobreposicao\obj\Debug\net9.0\Sobreposicao.csproj.CoreCompileInputs.cache
+E:\DEV\C#\Projetos\Course_Secao8\Sobreposicao\obj\Debug\net9.0\Sobreposicao.dll
+E:\DEV\C#\Projetos\Course_Secao8\Sobreposicao\obj\Debug\net9.0\refint\Sobreposicao.dll
+E:\DEV\C#\Projetos\Course_Secao8\Sobreposicao\obj\Debug\net9.0\Sobreposicao.pdb
+E:\DEV\C#\Projetos\Course_Secao8\Sobreposicao\obj\Debug\net9.0\Sobreposicao.genruntimeconfig.cache
+E:\DEV\C#\Projetos\Course_Secao8\Sobreposicao\obj\Debug\net9.0\ref\Sobreposicao.dll

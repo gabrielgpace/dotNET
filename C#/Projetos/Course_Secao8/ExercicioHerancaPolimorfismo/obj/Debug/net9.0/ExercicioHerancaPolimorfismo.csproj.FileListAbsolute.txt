@@ -1,0 +1,14 @@
+E:\DEV\C#\Projetos\Course_Secao8\ExercicioHerancaPolimorfismo\bin\Debug\net9.0\ExercicioHerancaPolimorfismo.exe
+E:\DEV\C#\Projetos\Course_Secao8\ExercicioHerancaPolimorfismo\bin\Debug\net9.0\ExercicioHerancaPolimorfismo.deps.json
+E:\DEV\C#\Projetos\Course_Secao8\ExercicioHerancaPolimorfismo\bin\Debug\net9.0\ExercicioHerancaPolimorfismo.runtimeconfig.json
+E:\DEV\C#\Projetos\Course_Secao8\ExercicioHerancaPolimorfismo\bin\Debug\net9.0\ExercicioHerancaPolimorfismo.dll
+E:\DEV\C#\Projetos\Course_Secao8\ExercicioHerancaPolimorfismo\bin\Debug\net9.0\ExercicioHerancaPolimorfismo.pdb
+E:\DEV\C#\Projetos\Course_Secao8\ExercicioHerancaPolimorfismo\obj\Debug\net9.0\ExercicioHerancaPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEV\C#\Projetos\Course_Secao8\ExercicioHerancaPolimorfismo\obj\Debug\net9.0\ExercicioHerancaPolimorfismo.AssemblyInfoInputs.cache
+E:\DEV\C#\Projetos\Course_Secao8\ExercicioHerancaPolimorfismo\obj\Debug\net9.0\ExercicioHerancaPolimorfismo.AssemblyInfo.cs
+E:\DEV\C#\Projetos\Course_Secao8\ExercicioHerancaPolimorfismo\obj\Debug\net9.0\ExercicioHerancaPolimorfismo.csproj.CoreCompileInputs.cache
+E:\DEV\C#\Projetos\Course_Secao8\ExercicioHerancaPolimorfismo\obj\Debug\net9.0\ExercicioHerancaPolimorfismo.dll
+E:\DEV\C#\Projetos\Course_Secao8\ExercicioHerancaPolimorfismo\obj\Debug\net9.0\refint\ExercicioHerancaPolimorfismo.dll
+E:\DEV\C#\Projetos\Course_Secao8\ExercicioHerancaPolimorfismo\obj\Debug\net9.0\ExercicioHerancaPolimorfismo.pdb
+E:\DEV\C#\Projetos\Course_Secao8\ExercicioHerancaPolimorfismo\obj\Debug\net9.0\ExercicioHerancaPolimorfismo.genruntimeconfig.cache
+E:\DEV\C#\Projetos\Course_Secao8\ExercicioHerancaPolimorfismo\obj\Debug\net9.0\ref\ExercicioHerancaPolimorfismo.dll

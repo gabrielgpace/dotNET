@@ -1,0 +1,14 @@
+E:\DEV\C#\Projetos\Course_Secao8\Heranca\bin\Debug\net9.0\Heranca.exe
+E:\DEV\C#\Projetos\Course_Secao8\Heranca\bin\Debug\net9.0\Heranca.deps.json
+E:\DEV\C#\Projetos\Course_Secao8\Heranca\bin\Debug\net9.0\Heranca.runtimeconfig.json
+E:\DEV\C#\Projetos\Course_Secao8\Heranca\bin\Debug\net9.0\Heranca.dll
+E:\DEV\C#\Projetos\Course_Secao8\Heranca\bin\Debug\net9.0\Heranca.pdb
+E:\DEV\C#\Projetos\Course_Secao8\Heranca\obj\Debug\net9.0\Heranca.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEV\C#\Projetos\Course_Secao8\Heranca\obj\Debug\net9.0\Heranca.AssemblyInfoInputs.cache
+E:\DEV\C#\Projetos\Course_Secao8\Heranca\obj\Debug\net9.0\Heranca.AssemblyInfo.cs
+E:\DEV\C#\Projetos\Course_Secao8\Heranca\obj\Debug\net9.0\Heranca.csproj.CoreCompileInputs.cache
+E:\DEV\C#\Projetos\Course_Secao8\Heranca\obj\Debug\net9.0\Heranca.dll
+E:\DEV\C#\Projetos\Course_Secao8\Heranca\obj\Debug\net9.0\refint\Heranca.dll
+E:\DEV\C#\Projetos\Course_Secao8\Heranca\obj\Debug\net9.0\Heranca.pdb
+E:\DEV\C#\Projetos\Course_Secao8\Heranca\obj\Debug\net9.0\Heranca.genruntimeconfig.cache
+E:\DEV\C#\Projetos\Course_Secao8\Heranca\obj\Debug\net9.0\ref\Heranca.dll

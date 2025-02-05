@@ -1,0 +1,14 @@
+E:\DEV\C#\Projetos\Course_Secao10\StreamReader\bin\Debug\net9.0\StreamReader.exe
+E:\DEV\C#\Projetos\Course_Secao10\StreamReader\bin\Debug\net9.0\StreamReader.deps.json
+E:\DEV\C#\Projetos\Course_Secao10\StreamReader\bin\Debug\net9.0\StreamReader.runtimeconfig.json
+E:\DEV\C#\Projetos\Course_Secao10\StreamReader\bin\Debug\net9.0\StreamReader.dll
+E:\DEV\C#\Projetos\Course_Secao10\StreamReader\bin\Debug\net9.0\StreamReader.pdb
+E:\DEV\C#\Projetos\Course_Secao10\StreamReader\obj\Debug\net9.0\StreamReader.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEV\C#\Projetos\Course_Secao10\StreamReader\obj\Debug\net9.0\StreamReader.AssemblyInfoInputs.cache
+E:\DEV\C#\Projetos\Course_Secao10\StreamReader\obj\Debug\net9.0\StreamReader.AssemblyInfo.cs
+E:\DEV\C#\Projetos\Course_Secao10\StreamReader\obj\Debug\net9.0\StreamReader.csproj.CoreCompileInputs.cache
+E:\DEV\C#\Projetos\Course_Secao10\StreamReader\obj\Debug\net9.0\StreamReader.dll
+E:\DEV\C#\Projetos\Course_Secao10\StreamReader\obj\Debug\net9.0\refint\StreamReader.dll
+E:\DEV\C#\Projetos\Course_Secao10\StreamReader\obj\Debug\net9.0\StreamReader.pdb
+E:\DEV\C#\Projetos\Course_Secao10\StreamReader\obj\Debug\net9.0\StreamReader.genruntimeconfig.cache
+E:\DEV\C#\Projetos\Course_Secao10\StreamReader\obj\Debug\net9.0\ref\StreamReader.dll

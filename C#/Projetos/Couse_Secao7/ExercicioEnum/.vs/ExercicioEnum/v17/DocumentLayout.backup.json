@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DEV\\C#\\Projetos\\Couse_Secao7\\ExercicioEnum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18A103EC-9E77-473F-9375-A252DBD61572}|ExercicioEnum.csproj|e:\\dev\\c#\\projetos\\couse_secao7\\exercicioenum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18A103EC-9E77-473F-9375-A252DBD61572}|ExercicioEnum.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18A103EC-9E77-473F-9375-A252DBD61572}|ExercicioEnum.csproj|e:\\dev\\c#\\projetos\\couse_secao7\\exercicioenum\\entities\\enums\\workerlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18A103EC-9E77-473F-9375-A252DBD61572}|ExercicioEnum.csproj|solutionrelative:entities\\enums\\workerlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18A103EC-9E77-473F-9375-A252DBD61572}|ExercicioEnum.csproj|e:\\dev\\c#\\projetos\\couse_secao7\\exercicioenum\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18A103EC-9E77-473F-9375-A252DBD61572}|ExercicioEnum.csproj|solutionrelative:entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18A103EC-9E77-473F-9375-A252DBD61572}|ExercicioEnum.csproj|e:\\dev\\c#\\projetos\\couse_secao7\\exercicioenum\\entities\\hourcontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18A103EC-9E77-473F-9375-A252DBD61572}|ExercicioEnum.csproj|solutionrelative:entities\\hourcontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18A103EC-9E77-473F-9375-A252DBD61572}|ExercicioEnum.csproj|e:\\dev\\c#\\projetos\\couse_secao7\\exercicioenum\\entities\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18A103EC-9E77-473F-9375-A252DBD61572}|ExercicioEnum.csproj|solutionrelative:entities\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18A103EC-9E77-473F-9375-A252DBD61572}|ExercicioEnum.csproj|e:\\dev\\c#\\projetos\\couse_secao7\\exercicioenum\\exercicioenum.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{18A103EC-9E77-473F-9375-A252DBD61572}|ExercicioEnum.csproj|solutionrelative:exercicioenum.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Department.cs",
+              "DocumentMoniker": "E:\\DEV\\C#\\Projetos\\Couse_Secao7\\ExercicioEnum\\Entities\\Department.cs",
+              "RelativeDocumentMoniker": "Entities\\Department.cs",
+              "ToolTip": "E:\\DEV\\C#\\Projetos\\Couse_Secao7\\ExercicioEnum\\Entities\\Department.cs",
+              "RelativeToolTip": "Entities\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T20:52:04.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HourContract.cs",
+              "DocumentMoniker": "E:\\DEV\\C#\\Projetos\\Couse_Secao7\\ExercicioEnum\\Entities\\HourContract.cs",
+              "RelativeDocumentMoniker": "Entities\\HourContract.cs",
+              "ToolTip": "E:\\DEV\\C#\\Projetos\\Couse_Secao7\\ExercicioEnum\\Entities\\HourContract.cs",
+              "RelativeToolTip": "Entities\\HourContract.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T20:51:53.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WorkerLevel.cs",
+              "DocumentMoniker": "E:\\DEV\\C#\\Projetos\\Couse_Secao7\\ExercicioEnum\\Entities\\Enums\\WorkerLevel.cs",
+              "RelativeDocumentMoniker": "Entities\\Enums\\WorkerLevel.cs",
+              "ToolTip": "E:\\DEV\\C#\\Projetos\\Couse_Secao7\\ExercicioEnum\\Entities\\Enums\\WorkerLevel.cs",
+              "RelativeToolTip": "Entities\\Enums\\WorkerLevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T20:51:38.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "E:\\DEV\\C#\\Projetos\\Couse_Secao7\\ExercicioEnum\\Entities\\Worker.cs",
+              "RelativeDocumentMoniker": "Entities\\Worker.cs",
+              "ToolTip": "E:\\DEV\\C#\\Projetos\\Couse_Secao7\\ExercicioEnum\\Entities\\Worker.cs",
+              "RelativeToolTip": "Entities\\Worker.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwC8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T20:50:58.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExercicioEnum.csproj",
+              "DocumentMoniker": "E:\\DEV\\C#\\Projetos\\Couse_Secao7\\ExercicioEnum\\ExercicioEnum.csproj",
+              "RelativeDocumentMoniker": "ExercicioEnum.csproj",
+              "ToolTip": "E:\\DEV\\C#\\Projetos\\Couse_Secao7\\ExercicioEnum\\ExercicioEnum.csproj",
+              "RelativeToolTip": "ExercicioEnum.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-13T20:48:18.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DEV\\C#\\Projetos\\Couse_Secao7\\ExercicioEnum\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\DEV\\C#\\Projetos\\Couse_Secao7\\ExercicioEnum\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T20:46:44.816Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

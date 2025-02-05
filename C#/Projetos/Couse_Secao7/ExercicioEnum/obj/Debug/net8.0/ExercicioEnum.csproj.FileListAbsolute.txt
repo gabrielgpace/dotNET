@@ -1,0 +1,14 @@
+E:\DEV\C#\Projetos\Couse_Secao7\ExercicioEnum\bin\Debug\net8.0\ExercicioEnum.exe
+E:\DEV\C#\Projetos\Couse_Secao7\ExercicioEnum\bin\Debug\net8.0\ExercicioEnum.deps.json
+E:\DEV\C#\Projetos\Couse_Secao7\ExercicioEnum\bin\Debug\net8.0\ExercicioEnum.runtimeconfig.json
+E:\DEV\C#\Projetos\Couse_Secao7\ExercicioEnum\bin\Debug\net8.0\ExercicioEnum.dll
+E:\DEV\C#\Projetos\Couse_Secao7\ExercicioEnum\bin\Debug\net8.0\ExercicioEnum.pdb
+E:\DEV\C#\Projetos\Couse_Secao7\ExercicioEnum\obj\Debug\net8.0\ExercicioEnum.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEV\C#\Projetos\Couse_Secao7\ExercicioEnum\obj\Debug\net8.0\ExercicioEnum.AssemblyInfoInputs.cache
+E:\DEV\C#\Projetos\Couse_Secao7\ExercicioEnum\obj\Debug\net8.0\ExercicioEnum.AssemblyInfo.cs
+E:\DEV\C#\Projetos\Couse_Secao7\ExercicioEnum\obj\Debug\net8.0\ExercicioEnum.csproj.CoreCompileInputs.cache
+E:\DEV\C#\Projetos\Couse_Secao7\ExercicioEnum\obj\Debug\net8.0\ExercicioEnum.dll
+E:\DEV\C#\Projetos\Couse_Secao7\ExercicioEnum\obj\Debug\net8.0\refint\ExercicioEnum.dll
+E:\DEV\C#\Projetos\Couse_Secao7\ExercicioEnum\obj\Debug\net8.0\ExercicioEnum.pdb
+E:\DEV\C#\Projetos\Couse_Secao7\ExercicioEnum\obj\Debug\net8.0\ExercicioEnum.genruntimeconfig.cache
+E:\DEV\C#\Projetos\Couse_Secao7\ExercicioEnum\obj\Debug\net8.0\ref\ExercicioEnum.dll

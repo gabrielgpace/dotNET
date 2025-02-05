@@ -1,0 +1,14 @@
+E:\DEV\C#\Projetos\Couse_Secao7\StringBuilder\bin\Debug\net8.0\StringBuilder.exe
+E:\DEV\C#\Projetos\Couse_Secao7\StringBuilder\bin\Debug\net8.0\StringBuilder.deps.json
+E:\DEV\C#\Projetos\Couse_Secao7\StringBuilder\bin\Debug\net8.0\StringBuilder.runtimeconfig.json
+E:\DEV\C#\Projetos\Couse_Secao7\StringBuilder\bin\Debug\net8.0\StringBuilder.dll
+E:\DEV\C#\Projetos\Couse_Secao7\StringBuilder\bin\Debug\net8.0\StringBuilder.pdb
+E:\DEV\C#\Projetos\Couse_Secao7\StringBuilder\obj\Debug\net8.0\StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEV\C#\Projetos\Couse_Secao7\StringBuilder\obj\Debug\net8.0\StringBuilder.AssemblyInfoInputs.cache
+E:\DEV\C#\Projetos\Couse_Secao7\StringBuilder\obj\Debug\net8.0\StringBuilder.AssemblyInfo.cs
+E:\DEV\C#\Projetos\Couse_Secao7\StringBuilder\obj\Debug\net8.0\StringBuilder.csproj.CoreCompileInputs.cache
+E:\DEV\C#\Projetos\Couse_Secao7\StringBuilder\obj\Debug\net8.0\StringBuilder.dll
+E:\DEV\C#\Projetos\Couse_Secao7\StringBuilder\obj\Debug\net8.0\refint\StringBuilder.dll
+E:\DEV\C#\Projetos\Couse_Secao7\StringBuilder\obj\Debug\net8.0\StringBuilder.pdb
+E:\DEV\C#\Projetos\Couse_Secao7\StringBuilder\obj\Debug\net8.0\StringBuilder.genruntimeconfig.cache
+E:\DEV\C#\Projetos\Couse_Secao7\StringBuilder\obj\Debug\net8.0\ref\StringBuilder.dll

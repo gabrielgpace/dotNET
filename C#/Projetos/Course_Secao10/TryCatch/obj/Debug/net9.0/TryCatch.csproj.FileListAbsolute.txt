@@ -1,0 +1,14 @@
+E:\DEV\C#\Projetos\Course_Secao10\TryCatch\obj\Debug\net9.0\TryCatch.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEV\C#\Projetos\Course_Secao10\TryCatch\obj\Debug\net9.0\TryCatch.AssemblyInfoInputs.cache
+E:\DEV\C#\Projetos\Course_Secao10\TryCatch\obj\Debug\net9.0\TryCatch.AssemblyInfo.cs
+E:\DEV\C#\Projetos\Course_Secao10\TryCatch\obj\Debug\net9.0\TryCatch.csproj.CoreCompileInputs.cache
+E:\DEV\C#\Projetos\Course_Secao10\TryCatch\bin\Debug\net9.0\TryCatch.exe
+E:\DEV\C#\Projetos\Course_Secao10\TryCatch\bin\Debug\net9.0\TryCatch.deps.json
+E:\DEV\C#\Projetos\Course_Secao10\TryCatch\bin\Debug\net9.0\TryCatch.runtimeconfig.json
+E:\DEV\C#\Projetos\Course_Secao10\TryCatch\bin\Debug\net9.0\TryCatch.dll
+E:\DEV\C#\Projetos\Course_Secao10\TryCatch\bin\Debug\net9.0\TryCatch.pdb
+E:\DEV\C#\Projetos\Course_Secao10\TryCatch\obj\Debug\net9.0\TryCatch.dll
+E:\DEV\C#\Projetos\Course_Secao10\TryCatch\obj\Debug\net9.0\refint\TryCatch.dll
+E:\DEV\C#\Projetos\Course_Secao10\TryCatch\obj\Debug\net9.0\TryCatch.pdb
+E:\DEV\C#\Projetos\Course_Secao10\TryCatch\obj\Debug\net9.0\TryCatch.genruntimeconfig.cache
+E:\DEV\C#\Projetos\Course_Secao10\TryCatch\obj\Debug\net9.0\ref\TryCatch.dll

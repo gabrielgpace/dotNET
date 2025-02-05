@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DEV\\C#\\Projetos\\Course\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{425E5ED8-8C02-4F53-B81B-5C3CEE74C4C9}|Course\\Course.csproj|e:\\dev\\c#\\projetos\\course\\course\\course.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{425E5ED8-8C02-4F53-B81B-5C3CEE74C4C9}|Course\\Course.csproj|solutionrelative:course\\course.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425E5ED8-8C02-4F53-B81B-5C3CEE74C4C9}|Course\\Course.csproj|e:\\dev\\c#\\projetos\\course\\course\\secao7\\date time\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{425E5ED8-8C02-4F53-B81B-5C3CEE74C4C9}|Course\\Course.csproj|solutionrelative:course\\secao7\\date time\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425E5ED8-8C02-4F53-B81B-5C3CEE74C4C9}|Course\\Course.csproj|e:\\dev\\c#\\projetos\\course\\course\\secao7\\funcoesstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{425E5ED8-8C02-4F53-B81B-5C3CEE74C4C9}|Course\\Course.csproj|solutionrelative:course\\secao7\\funcoesstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425E5ED8-8C02-4F53-B81B-5C3CEE74C4C9}|Course\\Course.csproj|e:\\dev\\c#\\projetos\\course\\course\\secao7\\expressaoternaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{425E5ED8-8C02-4F53-B81B-5C3CEE74C4C9}|Course\\Course.csproj|solutionrelative:course\\secao7\\expressaoternaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425E5ED8-8C02-4F53-B81B-5C3CEE74C4C9}|Course\\Course.csproj|e:\\dev\\c#\\projetos\\course\\course\\secao7\\switchcase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{425E5ED8-8C02-4F53-B81B-5C3CEE74C4C9}|Course\\Course.csproj|solutionrelative:course\\secao7\\switchcase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425E5ED8-8C02-4F53-B81B-5C3CEE74C4C9}|Course\\Course.csproj|e:\\dev\\c#\\projetos\\course\\course\\secao7\\var\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{425E5ED8-8C02-4F53-B81B-5C3CEE74C4C9}|Course\\Course.csproj|solutionrelative:course\\secao7\\var\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425E5ED8-8C02-4F53-B81B-5C3CEE74C4C9}|Course\\Course.csproj|e:\\dev\\c#\\projetos\\course\\course\\secao6\\matriz\\exercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{425E5ED8-8C02-4F53-B81B-5C3CEE74C4C9}|Course\\Course.csproj|solutionrelative:course\\secao6\\matriz\\exercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425E5ED8-8C02-4F53-B81B-5C3CEE74C4C9}|Course\\Course.csproj|e:\\dev\\c#\\projetos\\course\\course\\secao6\\matriz\\matriz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{425E5ED8-8C02-4F53-B81B-5C3CEE74C4C9}|Course\\Course.csproj|solutionrelative:course\\secao6\\matriz\\matriz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425E5ED8-8C02-4F53-B81B-5C3CEE74C4C9}|Course\\Course.csproj|e:\\dev\\c#\\projetos\\course\\course\\secao6\\lista\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{425E5ED8-8C02-4F53-B81B-5C3CEE74C4C9}|Course\\Course.csproj|solutionrelative:course\\secao6\\lista\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425E5ED8-8C02-4F53-B81B-5C3CEE74C4C9}|Course\\Course.csproj|e:\\dev\\c#\\projetos\\course\\course\\secao6\\ref e out\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{425E5ED8-8C02-4F53-B81B-5C3CEE74C4C9}|Course\\Course.csproj|solutionrelative:course\\secao6\\ref e out\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425E5ED8-8C02-4F53-B81B-5C3CEE74C4C9}|Course\\Course.csproj|e:\\dev\\c#\\projetos\\course\\course\\secao6\\ref e out\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{425E5ED8-8C02-4F53-B81B-5C3CEE74C4C9}|Course\\Course.csproj|solutionrelative:course\\secao6\\ref e out\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425E5ED8-8C02-4F53-B81B-5C3CEE74C4C9}|Course\\Course.csproj|e:\\dev\\c#\\projetos\\course\\course\\secao6\\foreach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{425E5ED8-8C02-4F53-B81B-5C3CEE74C4C9}|Course\\Course.csproj|solutionrelative:course\\secao6\\foreach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Course",
+              "DocumentMoniker": "E:\\DEV\\C#\\Projetos\\Course\\Course\\Course.csproj",
+              "RelativeDocumentMoniker": "Course\\Course.csproj",
+              "ToolTip": "E:\\DEV\\C#\\Projetos\\Course\\Course\\Course.csproj",
+              "RelativeToolTip": "Course\\Course.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-13T17:17:05.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DEV\\C#\\Projetos\\Course\\Course\\Secao7\\Date Time\\Program.cs",
+              "RelativeDocumentMoniker": "Course\\Secao7\\Date Time\\Program.cs",
+              "ToolTip": "E:\\DEV\\C#\\Projetos\\Course\\Course\\Secao7\\Date Time\\Program.cs",
+              "RelativeToolTip": "Course\\Secao7\\Date Time\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T17:13:22.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DEV\\C#\\Projetos\\Course\\Course\\Secao7\\FuncoesString\\Program.cs",
+              "RelativeDocumentMoniker": "Course\\Secao7\\FuncoesString\\Program.cs",
+              "ToolTip": "E:\\DEV\\C#\\Projetos\\Course\\Course\\Secao7\\FuncoesString\\Program.cs",
+              "RelativeToolTip": "Course\\Secao7\\FuncoesString\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T17:11:41.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DEV\\C#\\Projetos\\Course\\Course\\Secao7\\ExpressaoTernaria\\Program.cs",
+              "RelativeDocumentMoniker": "Course\\Secao7\\ExpressaoTernaria\\Program.cs",
+              "ToolTip": "E:\\DEV\\C#\\Projetos\\Course\\Course\\Secao7\\ExpressaoTernaria\\Program.cs",
+              "RelativeToolTip": "Course\\Secao7\\ExpressaoTernaria\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T17:06:43.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DEV\\C#\\Projetos\\Course\\Course\\Secao7\\SwitchCase\\Program.cs",
+              "RelativeDocumentMoniker": "Course\\Secao7\\SwitchCase\\Program.cs",
+              "ToolTip": "E:\\DEV\\C#\\Projetos\\Course\\Course\\Secao7\\SwitchCase\\Program.cs",
+              "RelativeToolTip": "Course\\Secao7\\SwitchCase\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:53:53.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DEV\\C#\\Projetos\\Course\\Course\\Secao7\\Var\\Program.cs",
+              "RelativeDocumentMoniker": "Course\\Secao7\\Var\\Program.cs",
+              "ToolTip": "E:\\DEV\\C#\\Projetos\\Course\\Course\\Secao7\\Var\\Program.cs",
+              "RelativeToolTip": "Course\\Secao7\\Var\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:50:11.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DEV\\C#\\Projetos\\Course\\Course\\Secao6\\Matriz\\Exercicio\\Program.cs",
+              "RelativeDocumentMoniker": "Course\\Secao6\\Matriz\\Exercicio\\Program.cs",
+              "ToolTip": "E:\\DEV\\C#\\Projetos\\Course\\Course\\Secao6\\Matriz\\Exercicio\\Program.cs",
+              "RelativeToolTip": "Course\\Secao6\\Matriz\\Exercicio\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:28:49.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Matriz.cs",
+              "DocumentMoniker": "E:\\DEV\\C#\\Projetos\\Course\\Course\\Secao6\\Matriz\\Matriz.cs",
+              "RelativeDocumentMoniker": "Course\\Secao6\\Matriz\\Matriz.cs",
+              "ToolTip": "E:\\DEV\\C#\\Projetos\\Course\\Course\\Secao6\\Matriz\\Matriz.cs",
+              "RelativeToolTip": "Course\\Secao6\\Matriz\\Matriz.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:21:41.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DEV\\C#\\Projetos\\Course\\Course\\Secao6\\Lista\\Program.cs",
+              "RelativeDocumentMoniker": "Course\\Secao6\\Lista\\Program.cs",
+              "ToolTip": "E:\\DEV\\C#\\Projetos\\Course\\Course\\Secao6\\Lista\\Program.cs",
+              "RelativeToolTip": "Course\\Secao6\\Lista\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T15:47:24.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DEV\\C#\\Projetos\\Course\\Course\\Secao6\\Foreach\\Program.cs",
+              "RelativeDocumentMoniker": "Course\\Secao6\\Foreach\\Program.cs",
+              "ToolTip": "E:\\DEV\\C#\\Projetos\\Course\\Course\\Secao6\\Foreach\\Program.cs",
+              "RelativeToolTip": "Course\\Secao6\\Foreach\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T21:38:26.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "E:\\DEV\\C#\\Projetos\\Course\\Course\\Secao6\\ref e out\\Calculator.cs",
+              "RelativeDocumentMoniker": "Course\\Secao6\\ref e out\\Calculator.cs",
+              "ToolTip": "E:\\DEV\\C#\\Projetos\\Course\\Course\\Secao6\\ref e out\\Calculator.cs",
+              "RelativeToolTip": "Course\\Secao6\\ref e out\\Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T21:28:56.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DEV\\C#\\Projetos\\Course\\Course\\Secao6\\ref e out\\Program.cs",
+              "RelativeDocumentMoniker": "Course\\Secao6\\ref e out\\Program.cs",
+              "ToolTip": "E:\\DEV\\C#\\Projetos\\Course\\Course\\Secao6\\ref e out\\Program.cs",
+              "RelativeToolTip": "Course\\Secao6\\ref e out\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T21:29:01.806Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

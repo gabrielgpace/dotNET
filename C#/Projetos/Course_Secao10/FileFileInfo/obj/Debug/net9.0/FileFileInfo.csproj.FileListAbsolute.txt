@@ -1,0 +1,14 @@
+E:\DEV\C#\Projetos\Course_Secao10\FileFileInfo\bin\Debug\net9.0\FileFileInfo.exe
+E:\DEV\C#\Projetos\Course_Secao10\FileFileInfo\bin\Debug\net9.0\FileFileInfo.deps.json
+E:\DEV\C#\Projetos\Course_Secao10\FileFileInfo\bin\Debug\net9.0\FileFileInfo.runtimeconfig.json
+E:\DEV\C#\Projetos\Course_Secao10\FileFileInfo\bin\Debug\net9.0\FileFileInfo.dll
+E:\DEV\C#\Projetos\Course_Secao10\FileFileInfo\bin\Debug\net9.0\FileFileInfo.pdb
+E:\DEV\C#\Projetos\Course_Secao10\FileFileInfo\obj\Debug\net9.0\FileFileInfo.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEV\C#\Projetos\Course_Secao10\FileFileInfo\obj\Debug\net9.0\FileFileInfo.AssemblyInfoInputs.cache
+E:\DEV\C#\Projetos\Course_Secao10\FileFileInfo\obj\Debug\net9.0\FileFileInfo.AssemblyInfo.cs
+E:\DEV\C#\Projetos\Course_Secao10\FileFileInfo\obj\Debug\net9.0\FileFileInfo.csproj.CoreCompileInputs.cache
+E:\DEV\C#\Projetos\Course_Secao10\FileFileInfo\obj\Debug\net9.0\FileFileInfo.dll
+E:\DEV\C#\Projetos\Course_Secao10\FileFileInfo\obj\Debug\net9.0\refint\FileFileInfo.dll
+E:\DEV\C#\Projetos\Course_Secao10\FileFileInfo\obj\Debug\net9.0\FileFileInfo.pdb
+E:\DEV\C#\Projetos\Course_Secao10\FileFileInfo\obj\Debug\net9.0\FileFileInfo.genruntimeconfig.cache
+E:\DEV\C#\Projetos\Course_Secao10\FileFileInfo\obj\Debug\net9.0\ref\FileFileInfo.dll
